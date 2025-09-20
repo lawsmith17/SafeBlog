@@ -3,7 +3,9 @@ This project is a web app built on the Codeigniter framework, PHP, Bootstrap, an
 
 SCREENSHOTS:
 
+Login Page
 
+![Image Alt](https://github.com/lawsmith17/SafeBlog/blob/1f1f3a4f78109ffdb75dacc1ce9b2a8031575a7f/Screenshots/Login%20Page.JPG)
 
 
 
